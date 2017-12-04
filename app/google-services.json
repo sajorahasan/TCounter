@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "408932186681",
+    "firebase_url": "https://tiffincounter-9bae3.firebaseio.com",
+    "project_id": "tiffincounter-9bae3",
+    "storage_bucket": "tiffincounter-9bae3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408932186681:android:ff8dfacef2a741ad",
+        "android_client_info": {
+          "package_name": "com.sajorahasan.tiffincounter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408932186681-q2e1csmjsoft6vbej04j5mupt4ot0uck.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sajorahasan.tiffincounter",
+            "certificate_hash": "77a76b6eb917cceac0038acf848b38d1c9638ecb"
+          }
+        },
+        {
+          "client_id": "408932186681-irdi8feiii4soijuodb91v934ohepoa7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sajorahasan.tiffincounter",
+            "certificate_hash": "5f4da65c1c6cba86c369c9e08ecd8a3156cb54d6"
+          }
+        },
+        {
+          "client_id": "408932186681-omta7uk7ghu9tei0i6bpalefqmnnnimb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1dAkzEM80nXHGw5jL7o-KwE_NT7rRZyo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408932186681-omta7uk7ghu9tei0i6bpalefqmnnnimb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

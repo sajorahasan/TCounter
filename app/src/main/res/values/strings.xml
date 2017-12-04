@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Tiffin Counter</string>
+    <string name="title_activity_summary">Tiffins Summary</string>
+    <string name="Rs">\u20B9</string>
+    <string name="title_widget">Tiffin Counter Widget</string>
+    <string name="help_content">Welcome to Tiffin Counter app\n\n
+                                <b>\u2022 Adding a Tiffin \u2022 </b>
+                                Please set Lunch and Dinner tiffin prices before adding them.\n\n
+                                <b>\u2022 Update a Tiffin Date \u2022 </b>
+                                Click on Tiffin Date which you want to update date.\n\n
+                                <b>\u2022 Update a Tiffin Price \u2022 </b>
+                                Click on Tiffin Price which you want to update price.\n\n
+                                <b>\u2022 Deleting a Tiffin \u2022 </b>
+                                Long press Lunch/Dinner on the tiffin item which you want to delete.\n\n
+                                <b>\u2022 Tiffin Analysis \u2022 </b>
+                                Click the Info icon above in the toolbar and see various information about your tiffins.</string>
+
+    <string name="about_content">I am <b>Hasan Sajora</b> and I have developed this app for my personal usage, you are free to use this app according to your need.\n\n
+                                 <b>\u2022 You can contact me at \u2022 \n</b>
+                                 <b>Email : </b> sajorahasan@gmail.com</string>
+</resources>
