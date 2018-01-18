@@ -1,0 +1,4 @@
+#Sat Dec 16 08:38:54 IST 2017
+base.0=D\:\\TiffinCounter\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

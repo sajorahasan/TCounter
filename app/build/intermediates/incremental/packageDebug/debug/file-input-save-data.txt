@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Sat Dec 16 08:38:55 IST 2017
+1.base=D\:\\TiffinCounter\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
+0.path=crashlytics-build.properties
+0.set=ASSET
+0.base=D\:\\TiffinCounter\\app\\build\\intermediates\\assets\\debug
+1.path=classes.dex
