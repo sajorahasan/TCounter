@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\TiffinCounter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+            "outputFile": "D:\\TiffinCounter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.0.1.aar\\5b3e61f9137ef1d9fd7ed6cc026ad6b9\\res\\values-land\\values-land.xml",
+                    "source": "C:\\Users\\sajor\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.0.2.aar\\ed1fc8b061e16f83418775f32f9fc640\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.1.aar\\ddf4e764f6f0f86752d62d412d7634d6\\res\\values-land\\values-land.xml",
+                    "source": "C:\\Users\\sajor\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\fab2d3c8295b5c627d02b4056e7117cf\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

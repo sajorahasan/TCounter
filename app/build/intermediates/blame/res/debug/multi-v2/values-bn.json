@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\TiffinCounter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-bn\\values-bn.xml",
+            "outputFile": "D:\\TiffinCounter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-bn\\values-bn.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\0eae225a0bec83d8a179da0d2a65eb10\\res\\values-bn\\values-bn.xml",
+                    "source": "C:\\Users\\sajor\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\2721e1548ab97e4b642f696b9ca6061a\\res\\values-bn\\values-bn.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -21,24 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-11.6.2.aar\\baa74fbb5d33f4667697154d847863dc\\res\\values-bn\\values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "285",
-                        "endColumns": "210",
-                        "endOffsets": "495"
-                    },
-                    "to": {
-                        "startLines": "19",
-                        "startColumns": "4",
-                        "startOffsets": "1919",
-                        "endColumns": "210",
-                        "endOffsets": "2125"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.1.aar\\ddf4e764f6f0f86752d62d412d7634d6\\res\\values-bn\\values-bn.xml",
+                    "source": "C:\\Users\\sajor\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\fab2d3c8295b5c627d02b4056e7117cf\\res\\values-bn\\values-bn.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -52,6 +35,23 @@
                         "startOffsets": "105,214,326,432,526,631,760,838,916,1003,1113,1221,1320,1430,1536,1649,1814,2130",
                         "endColumns": "108,111,105,93,104,128,77,77,86,109,107,98,109,105,112,164,104,81",
                         "endOffsets": "209,321,427,521,626,755,833,911,998,1108,1216,1315,1425,1531,1644,1809,1914,2207"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\sajor\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-11.8.0.aar\\f39149cfe4486f905086a0de291bd117\\res\\values-bn\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "283",
+                        "endColumns": "210",
+                        "endOffsets": "493"
+                    },
+                    "to": {
+                        "startLines": "19",
+                        "startColumns": "4",
+                        "startOffsets": "1919",
+                        "endColumns": "210",
+                        "endOffsets": "2125"
                     }
                 }
             ]

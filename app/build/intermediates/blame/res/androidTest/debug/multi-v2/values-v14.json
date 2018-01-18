@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\TiffinCounter\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v14\\values-v14.xml",
+            "outputFile": "D:\\TiffinCounter\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v14\\values-v14.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.1.aar\\ddf4e764f6f0f86752d62d412d7634d6\\res\\values-v14\\values-v14.xml",
+                    "source": "C:\\Users\\sajor\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\fab2d3c8295b5c627d02b4056e7117cf\\res\\values-v14\\values-v14.xml",
                     "from": {
                         "startLines": "2,7,8,9,15",
                         "startColumns": "4,4,4,4,4",

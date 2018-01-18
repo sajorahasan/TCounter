@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\TiffinCounter\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-uz\\values-uz.xml",
+            "outputFile": "D:\\TiffinCounter\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-uz\\values-uz.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.1.aar\\0eae225a0bec83d8a179da0d2a65eb10\\res\\values-uz\\values-uz.xml",
+                    "source": "C:\\Users\\sajor\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.0.2.aar\\2721e1548ab97e4b642f696b9ca6061a\\res\\values-uz\\values-uz.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -21,24 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-11.6.2.aar\\baa74fbb5d33f4667697154d847863dc\\res\\values-uz\\values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "285",
-                        "endColumns": "208",
-                        "endOffsets": "493"
-                    },
-                    "to": {
-                        "startLines": "19",
-                        "startColumns": "4",
-                        "startOffsets": "1881",
-                        "endColumns": "208",
-                        "endOffsets": "2085"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\admin\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.1.aar\\ddf4e764f6f0f86752d62d412d7634d6\\res\\values-uz\\values-uz.xml",
+                    "source": "C:\\Users\\sajor\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.0.2.aar\\fab2d3c8295b5c627d02b4056e7117cf\\res\\values-uz\\values-uz.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -52,6 +35,23 @@
                         "startOffsets": "105,210,314,428,514,625,741,821,900,984,1093,1200,1301,1409,1514,1621,1782,2090",
                         "endColumns": "104,103,113,85,110,115,79,78,83,108,106,100,107,104,106,160,98,83",
                         "endOffsets": "205,309,423,509,620,736,816,895,979,1088,1195,1296,1404,1509,1616,1777,1876,2169"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\sajor\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-11.8.0.aar\\f39149cfe4486f905086a0de291bd117\\res\\values-uz\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "283",
+                        "endColumns": "208",
+                        "endOffsets": "491"
+                    },
+                    "to": {
+                        "startLines": "19",
+                        "startColumns": "4",
+                        "startOffsets": "1881",
+                        "endColumns": "208",
+                        "endOffsets": "2085"
                     }
                 }
             ]
